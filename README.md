@@ -2,6 +2,8 @@
 
 Visio-PDF-Layers is a Visio Add-in for exporting layered Visio files to layered PDFs with the use of [iText 7](https://itextpdf.com/).
 
+![image](https://i.ibb.co/Z6gFfbF/Screenshot-2024-04-19-170713.png)
+
 ## Features
 
 - Build a single PDF from the current drawing page
